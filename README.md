@@ -1,2 +1,3 @@
 # WeChat
-Real time Chat application with Users and Rooms - Socket.io, Node, Express &amp; JS
+
+Real time Chat application with Websockets using Node.js, Express and Socket.io with Vabilla JS on the frontend.
